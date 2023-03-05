@@ -1,0 +1,12 @@
+console.log("Hello Suchit");
+var myNum = 12;
+var myBool = true;
+var myString = "suchit";
+console.log(myNum);
+console.log(myBool);
+console.log(myString);
+var firstName = "suchit";
+var lastName = "khadtar";
+var grade = 88.9;
+var found = true;
+console.log("hi ".concat(firstName, " ").concat(lastName));
